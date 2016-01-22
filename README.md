@@ -13,7 +13,8 @@ Build the maven project
 ### Run
 Start karaf and install the feature:
 
-
+	./bin/karaf clean debug
+	
 	feature:repo-add mvn:de.studiointeractive.samples/stagemonitor-feature-repository/1.0.0-SNAPSHOT/xml/features
 	feature:install stagemonitor
 
