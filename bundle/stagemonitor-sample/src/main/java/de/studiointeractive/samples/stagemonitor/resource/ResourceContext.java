@@ -121,6 +121,8 @@ public class ResourceContext implements BundleListener {
 		String name = bundle.getSymbolicName();
 		Boolean isValid = false;
 
+		System.out.println(name);
+
 		if (name.contains("stagemonitor") || name.startsWith("com.vaadin")) {
 			isValid = true;
 		}

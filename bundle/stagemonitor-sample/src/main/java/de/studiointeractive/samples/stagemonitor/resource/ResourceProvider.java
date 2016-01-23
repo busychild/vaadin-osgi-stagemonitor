@@ -34,6 +34,8 @@ public class ResourceProvider implements HttpContext {
 		return resource;
 	}
 
+
+
 	/**
 	 * Adds a bundle that may potentially contain a requested resource.
 	 *

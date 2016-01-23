@@ -71,11 +71,11 @@
         <bundle>mvn:com.codahale.metrics/metrics-core/3.0.2</bundle>
         <bundle>mvn:com.codahale.metrics/metrics-json/3.0.2</bundle>
 
-        <bundle>wrap:mvn:org.stagemonitor/stagemonitor-web/0.20.0</bundle>
-        <bundle>wrap:mvn:org.stagemonitor/stagemonitor-os/0.20.0</bundle>
-        <bundle>wrap:mvn:org.stagemonitor/stagemonitor-core/0.20.0</bundle>
-        <bundle>wrap:mvn:org.stagemonitor/stagemonitor-javaagent/0.20.0</bundle>
-        <bundle>wrap:mvn:org.stagemonitor/stagemonitor-requestmonitor/0.20.0</bundle>
+       <!-- <bundle>wrap:mvn:org.stagemonitor/stagemonitor-web/0.21.0-SNAPSHOT</bundle>
+        <bundle>wrap:mvn:org.stagemonitor/stagemonitor-os/0.21.0-SNAPSHOT</bundle>-->
+        <!--<bundle>wrap:mvn:org.stagemonitor/stagemonitor-core/0.21.0-SNAPSHOT</bundle>-->
+        <!--<bundle>wrap:mvn:org.stagemonitor/stagemonitor-javaagent/0.21.0-SNAPSHOT</bundle>
+        <bundle>wrap:mvn:org.stagemonitor/stagemonitor-requestmonitor/0.21.0-SNAPSHOT</bundle>-->
 
     </feature>
 
